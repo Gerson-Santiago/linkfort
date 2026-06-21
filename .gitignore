@@ -1,0 +1,6 @@
+# Arquivos de estado e dados dinâmicos — gerados em runtime, não pertencem ao versionamento
+.monitor_status
+dados_dns_linkfort.csv
+dashboard.html
+linkfort_report.txt
+historico.html
